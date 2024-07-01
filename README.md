@@ -1,13 +1,10 @@
 
 # Shortest Path Calculator
 
-A brief description of what this project does and who it's for
- 
-
 ## Features
 
-- displays the shortest distance between source and destination.
-- displays shortest path one must take to reach destintion with minimum distance
+- Displays the shortest distance between source and destination.
+- Displays shortest path one must take to reach destintion with minimum distance.
 
 ## API Reference
 
@@ -37,6 +34,7 @@ A brief description of what this project does and who it's for
 This project is used by the following:
 
 - Students of IIT Guwahati
+- Delivery/Courier persons coming to IIT Guwahati 
 
 
 ## FAQ
